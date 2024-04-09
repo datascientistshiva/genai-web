@@ -1,0 +1,17 @@
+# Build application for Data sharing.
+streamlit
+
+# Used to load all the environments such as .env
+python-dotenv
+
+
+pathlib
+
+# Libraries to generate trascript of Youtube Video
+youtube_transcript_api
+
+# Libraries to use google generative ai model
+google-generativeai
+
+
+
